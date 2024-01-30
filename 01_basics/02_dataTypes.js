@@ -20,4 +20,4 @@ let isLogged = false
 // object 
 
 console.log(typeof null); // object 
-console.log(type of Undefined); // undefined
+console.log(typeof Undefined); // undefined
