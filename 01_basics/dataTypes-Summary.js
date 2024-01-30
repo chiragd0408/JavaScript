@@ -20,6 +20,6 @@ let myObj = {
     age: 22,
 }
 
-function () {
+/* let myfunction = function () {
     console.log("Hello World");
-}
+} */
