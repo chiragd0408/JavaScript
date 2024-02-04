@@ -53,4 +53,3 @@ const course = {
 const {coursefaculty: Faculty} = course
 // console.log(coursefaculty);
 console.log(Faculty);
-
